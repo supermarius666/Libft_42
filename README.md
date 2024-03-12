@@ -1,1 +1,2 @@
-# libft_
+## Libft 42
+This project is about coding a C library
